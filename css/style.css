@@ -139,7 +139,7 @@
 	margin-top: 87px;
 }
 
-.six-div {
+.six-div1, .six-div2 {
 	width: 371px;
 	height: 374px;
 	margin-right: 33px;
@@ -150,7 +150,10 @@
 	background-color: #fff;
 	margin-bottom: 30px;
 }
-.six-div:nth-child(3) {
+.six-div1:nth-child(3) {
+	margin-right: 0px;
+}
+.six-div2:nth-child(3) {
 	margin-right: 0px;
 }
 
@@ -188,3 +191,10 @@
 	align-items: center;
 
 }
+
+@media only screen and(max-width: 768px) {
+	.three-div {
+	
+		flex-wrap: wrap;
+	}
+	}

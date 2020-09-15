@@ -1,0 +1,43 @@
+@media (max-width: 1024px) {
+	
+	.middle-div {
+		flex-direction: column;
+	}
+	.middle-div-txt {
+		width: 100%;
+		align-items: center;
+	}
+	.three-div {
+		flex-wrap: wrap;
+		flex-direction: column;
+	}
+	.middle-div-img {
+		width: 100%;
+		margin-top: 20px;
+	}
+	.six-div-container {
+		flex-direction: row;
+	}
+}
+
+@media (max-width: 768px) {
+	
+	.six-div2 {
+		margin-right: 0px;
+	}
+	.nav-li a {
+		font-size: 20px;
+	}
+}
+
+@media (max-width: 480px) {
+	.nav-li a {
+		font-size: 25px;
+	}
+	.satauri h1 {
+		font-size: 70px;
+	}
+	.three-div {
+		font-size: 20px;
+	}
+}
