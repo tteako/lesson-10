@@ -17,6 +17,7 @@
 	}
 	.six-div-container {
 		flex-direction: row;
+		flex-wrap: wrap;
 	}
 }
 
@@ -47,4 +48,7 @@
 		background-image: none;
 		background-color: #98aaef;
 	}
+	.banner-button {
+	width: 107px;
+	height: 40px;
 }
