@@ -32,8 +32,11 @@
 }
 
 @media (max-width: 480px) {
-	.nav-li a {
-		font-size: 25px;
+	.nav-wrapper {
+		display: none
+	}
+	.burger-bar {
+		display: block;
 	}
 	.satauri h1 {
 		font-size: 70px;
@@ -44,6 +47,12 @@
 }
 
 @media (max-width: 320px) {
+	.nav-wrapper {
+		display: none
+	}
+	.burger-bar {
+		display: block;
+	}
 	.banner {
 		background-image: none;
 		background-color: #98aaef;
