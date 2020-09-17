@@ -92,5 +92,6 @@
 .six-div1, 
 .six-div2 {
 		width: 100%;
+		margin-right: 0px;
 	}
 }
