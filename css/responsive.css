@@ -80,6 +80,7 @@
 }
 .three-div {
 	flex-wrap: wrap;
+	width: 100%;
 }
 .middle-div-txt {
 		width: 100%;
