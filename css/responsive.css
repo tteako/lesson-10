@@ -74,5 +74,8 @@
 	.banner-button {
 	width: 207px;
 	height: 72px;
+} 
+.middle-div-txt h2 {
+	font-size: 25px;
 }
 }
