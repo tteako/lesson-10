@@ -47,6 +47,10 @@
 	.satauri {
 		justify-content: center;
 	}
+	.banner-button {
+		width: 207px;
+	    height: 72px;
+	}
 }
 
 @media (max-width: 320px) {
