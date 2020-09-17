@@ -44,6 +44,9 @@
 	.three-div {
 		font-size: 20px;
 	}
+	.banner-button {
+		justify-content: center;
+	}
 }
 
 @media (max-width: 320px) {
