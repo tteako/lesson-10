@@ -29,7 +29,8 @@
 	.nav-li a {
 		font-size: 20px;
 	}
-	.six-div1, .six-div2 {
+	.six-div1, 
+	.six-div2 {
 		width: 251px;
 	}
 }
