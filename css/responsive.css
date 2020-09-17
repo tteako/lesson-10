@@ -38,6 +38,9 @@
 	.burger-bar {
 		display: block;
 	}
+	.burger-bar:hover {
+		cursor: pointer;
+	}
 	.satauri h1 {
 		font-size: 70px;
 	}
