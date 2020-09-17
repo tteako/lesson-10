@@ -78,4 +78,7 @@
 .middle-div-txt h2 {
 	font-size: 25px;
 }
+.three-div {
+	flex-wrap: wrap;
+}
 }
