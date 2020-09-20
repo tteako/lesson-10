@@ -67,7 +67,12 @@
 	.burger-bar {
 		display: block;
 	}
-	.banner {
+    .satauri {
+    	padding: 50px;
+
+    }
+     .banner {
+     	height: 500px;
 		background-image: none;
 		background-color: #98aaef;
 	}
